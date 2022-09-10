@@ -18,6 +18,8 @@ python Run.py
 # Apa saja fungsinya
 + Crack Publik/Followers
 + Login Cookie
++ Check spam ip
++ Get id target
 + Get Proxy/User-agent
 
 # Login Apikey crack-facebook
