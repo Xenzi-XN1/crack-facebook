@@ -8,7 +8,7 @@
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-python3 -m pip install requests bs4 rich
+python3 -m pip install requests bs4 rich datetime futures
 rm -rf crack-facebook
 git clone https://github.com/Xenzi-XN1/crack-facebook
 cd crack-facebook
