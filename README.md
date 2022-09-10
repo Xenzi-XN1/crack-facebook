@@ -26,7 +26,7 @@ python Run.py
 + Premium Apikey bisa chat saya lewat Wa : 6281288572373 ( prem bisa bayar atau download Apikey )
 
 # Menu Dari crack-facebook
-![img]()
+![img](https://i.ibb.co/Sccc08w/IMG-20220910-222449.jpg)
 + Menu Masih sedikit Tunggu Update V2.0 Akan ada tambahan menu >_<
 + Jika ada Bug/Eror Hubungi saya Wa : 6281288572373
 
