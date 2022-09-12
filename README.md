@@ -35,6 +35,11 @@ python Run.py
 # Hasil Dari crack-facebook
 ![img](https://i.ibb.co/8s8d83N/IMG-20220910-222102.jpg)
 
+# list harga premium
++ 1 Minggu/7 hari (15.000)
++ 2 Minggu/14 hari (30.000)
++ Full Open Source 150k
+
 # Thanks to
 ```
 Team Xenzi
