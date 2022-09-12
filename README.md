@@ -16,7 +16,7 @@ python Run.py
 ```
 
 # Apa saja fungsinya
-+ Crack Publik/Followers
++ Crack Publik/Followers/Email/id random
 + Login Cookie
 + Check spam ip
 + Get id target
